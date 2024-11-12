@@ -16,9 +16,9 @@ This project demonstrates how to control a servo motor using computer vision tec
 ## Project Structure
 servo-motor-control-with-computer-vision/
 
-├── README.md               # Project documentation
+├── README.md                 (Project documentation)
 
-├── servo_control.py        # Python code for computer vision and serial communication with Arduino
+├── servo_control.py          (Python code for computer vision and serial communication with Arduino)
 
-└── servo_control.ino       # Arduino code for controlling the servo motor based on serial commands
+└── servo_control.ino         (Arduino code for controlling the servo motor based on serial commands)
 
